@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "vbabu721Org-dev-controller"
+description: "CloudBees CI configuration bundle for the vbabu721Org dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/vbabu721org/dev-controller"
+parent: "base"
